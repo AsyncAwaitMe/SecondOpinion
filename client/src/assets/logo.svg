@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle for tech/medical feel -->
+  <circle cx="100" cy="100" r="90" fill="#f0f4f8"/>
+
+  <!-- Fancy S and O -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#0070c0">
+    S
+  </text>
+  <text x="50%" y="50%" dy="30" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#c00000">
+    O
+  </text>
+
+  <!-- Optional underline / swoosh -->
+  <path d="M50 140 C80 160, 120 160, 150 140" stroke="#0070c0" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,54 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+models/
+
+# Virtual environments
+.venv/
+.env
+venv/
+env/
+ENV/
+
+# Database files
+db/
+*.sqlite
+*.sqlite3
+secondopinion.db
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+
+# Python package files
+*.whl
+site-packages/
+
+
+uploads/
